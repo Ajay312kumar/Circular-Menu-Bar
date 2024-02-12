@@ -1,0 +1,6 @@
+framework module Pods_LeftSideMenu {
+  umbrella header "Pods-LeftSideMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
